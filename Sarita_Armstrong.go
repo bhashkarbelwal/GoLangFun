@@ -16,8 +16,8 @@ func Ispalindrome(n int){
 		newn += no*no*no
 	}
 	if temp == newn{
-		fmt.Printf(" %d is palindrome number\n", temp)
+		fmt.Printf(" %d is Armstrong number\n", temp)
 	} else {
-		fmt.Printf(" %d is not palindrome number\n\n", temp)
+		fmt.Printf(" %d is not Armstrong number\n\n", temp)
 	}
 }
