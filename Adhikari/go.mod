@@ -1,3 +1,3 @@
-module Himanshu123
+module himanshu
 
 go 1.17
